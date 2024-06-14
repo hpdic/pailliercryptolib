@@ -15,6 +15,7 @@ int main() {
   std::cout << std::endl;
   std::cout << "======================================" << std::endl;
   std::cout << "Example: Encrypt and Decrypt with IPCL" << std::endl;
+  std::cout << "===========HPDIC MOD==================" << std::endl;
   std::cout << "======================================" << std::endl;
 
   ipcl::initializeContext("QAT");
